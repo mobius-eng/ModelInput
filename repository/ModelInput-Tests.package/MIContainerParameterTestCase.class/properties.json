@@ -1,0 +1,14 @@
+{
+	"category" : "ModelInput-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"idealGas" ],
+	"name" : "MIContainerParameterTestCase",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

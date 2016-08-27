@@ -1,0 +1,15 @@
+{
+	"category" : "ModelInput-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"mass",
+		"pressure" ],
+	"name" : "MISingleParameterTestCase",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "ModelInput-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"temperatures" ],
+	"name" : "MIOptionsParameterTestCase",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
