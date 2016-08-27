@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfModelInput",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfModelInput",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
