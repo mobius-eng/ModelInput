@@ -1,0 +1,18 @@
+{
+	"category" : "ModelInput-Parameters",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "AlexeyCherkaev 8/24/2016 17:46",
+	"instvars" : [
+		"name",
+		"id",
+		"description",
+		"parent",
+		"transformer" ],
+	"name" : "MIAbstractParameter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

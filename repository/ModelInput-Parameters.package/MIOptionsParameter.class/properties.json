@@ -1,0 +1,15 @@
+{
+	"category" : "ModelInput-Parameters",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "AlexeyCherkaev 8/24/2016 17:53",
+	"instvars" : [
+		"options",
+		"selection" ],
+	"name" : "MIOptionsParameter",
+	"pools" : [
+		 ],
+	"super" : "MIAbstractParameter",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "ModelInput-Parameters",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "AlexeyCherkaev 8/24/2016 17:49",
+	"instvars" : [
+		"children" ],
+	"name" : "MIContainerParameter",
+	"pools" : [
+		 ],
+	"super" : "MIAbstractParameter",
+	"type" : "normal" }

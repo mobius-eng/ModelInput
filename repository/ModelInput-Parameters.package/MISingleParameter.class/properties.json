@@ -1,0 +1,15 @@
+{
+	"category" : "ModelInput-Parameters",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "AlexeyCherkaev 8/24/2016 17:47",
+	"instvars" : [
+		"value",
+		"units" ],
+	"name" : "MISingleParameter",
+	"pools" : [
+		 ],
+	"super" : "MIAbstractParameter",
+	"type" : "normal" }
